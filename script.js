@@ -39,7 +39,7 @@ const songs = [
         artist: 'Metric/Jocinto Design',
     },
     {
-        name: 'dg6',
+        name: 'dg7',
         displayName: 'Mee Baburao Boltoy',
         artist: 'Santosh Ghadge',
     }
