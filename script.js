@@ -37,6 +37,11 @@ const songs = [
         name: 'dg5',
         displayName: 'Front Row (Remix)',
         artist: 'Metric/Jocinto Design',
+    },
+    {
+        name: 'dg6',
+        displayName: 'Mee Baburao Boltoy',
+        artist: 'Santosh Ghadge',
     }
     
 ];
